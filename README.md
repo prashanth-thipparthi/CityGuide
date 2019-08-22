@@ -33,8 +33,17 @@ In the proposed system the user dials up the given Phone number and provides the
 
 ## Architecture:
 #### High Level Architecture:
+
+![](images/HighLevelArchitecture.PNG)
 #### Low Level Architecture:
+![](images/LowLevelDesign.PNG)
+
+#### Entity Relationship Diagram: 
+![](images/ERDiagram.PNG)
+
 ## Results: 
+![](images/Output1.PNG)
+![](images/Output2.PNG)
 
 ## References:
 Sagiroglu, S.; Sinanc, D. (20-24 May 2013),”City Guide”.  
